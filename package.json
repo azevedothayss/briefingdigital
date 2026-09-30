@@ -1,0 +1,12 @@
+{
+  "name": "diagnostico-digital-thais-azevedo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test:backend": "node tests/backend.cjs",
+    "test:ui": "node tests/interface.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
